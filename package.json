@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "14.15.3",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vince6117/Intro-to-Node.git"
+  },
+  "author": "Vincent CT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vince6117/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/vince6117/Intro-to-Node#readme"
+}
